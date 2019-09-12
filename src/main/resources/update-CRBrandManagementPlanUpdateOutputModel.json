@@ -1,0 +1,11 @@
+{
+  "brandManagementPlanUpdateActionTaskRecord" : {},
+  "updateResponseRecord" : {},
+  "brandManagementPlanInstanceRecord" : {
+    "brandValueAssessment" : "brandValueAssessment",
+    "brandUsage" : "brandUsage",
+    "brandDefinition" : "brandDefinition",
+    "brandDevelopmentSchedule" : "brandDevelopmentSchedule"
+  },
+  "brandManagementPlanUpdateActionTaskReference" : "BMPUATR784158"
+}

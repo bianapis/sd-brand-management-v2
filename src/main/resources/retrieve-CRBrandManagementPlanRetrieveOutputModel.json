@@ -1,0 +1,21 @@
+{
+  "brandManagementPlanRetrieveActionResponse" : "brandManagementPlanRetrieveActionResponse",
+  "brandManagementPlanInstanceAnalysis" : {
+    "brandManagementPlanInstanceAnalysisData" : "brandManagementPlanInstanceAnalysisData",
+    "brandManagementPlanInstanceAnalysisReport" : {},
+    "brandManagementPlanInstanceAnalysisReportType" : "brandManagementPlanInstanceAnalysisReportType"
+  },
+  "brandManagementPlanInstanceRecord" : {
+    "brandValueAssessment" : "brandValueAssessment",
+    "brandUsage" : "brandUsage",
+    "brandDefinition" : "brandDefinition",
+    "brandDevelopmentSchedule" : "brandDevelopmentSchedule"
+  },
+  "brandManagementPlanRetrieveActionTaskReference" : "BMPRATR794355",
+  "brandManagementPlanInstanceReportRecord" : {
+    "brandManagementPlanInstanceReportData" : "brandManagementPlanInstanceReportData",
+    "brandManagementPlanInstanceReport" : {},
+    "brandManagementPlanInstanceReportType" : "brandManagementPlanInstanceReportType"
+  },
+  "brandManagementPlanRetrieveActionTaskRecord" : {}
+}

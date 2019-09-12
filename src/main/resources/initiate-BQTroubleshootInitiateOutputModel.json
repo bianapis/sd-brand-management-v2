@@ -1,0 +1,12 @@
+{
+  "troubleshootInstanceStatus" : "troubleshootInstanceStatus",
+  "troubleshootInstanceReference" : "TIR795240",
+  "troubleshootInitiateActionRecord" : {},
+  "brandManagementPlanInstanceRecord" : {
+    "brandValueAssessment" : "brandValueAssessment",
+    "brandUsage" : "brandUsage",
+    "brandDefinition" : "brandDefinition",
+    "brandDevelopmentSchedule" : "brandDevelopmentSchedule"
+  },
+  "troubleshootInitiateActionReference" : "TIAR724759"
+}

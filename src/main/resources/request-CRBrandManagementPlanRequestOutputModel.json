@@ -1,0 +1,12 @@
+{
+  "brandManagementPlanRequestActionTaskRecord" : {},
+  "requestRecordReference" : "RRR746304",
+  "brandManagementPlanRequestActionTaskReference" : "BMPRATR761280",
+  "brandManagementPlanInstanceRecord" : {
+    "brandValueAssessment" : "brandValueAssessment",
+    "brandUsage" : "brandUsage",
+    "brandDefinition" : "brandDefinition",
+    "brandDevelopmentSchedule" : "brandDevelopmentSchedule"
+  },
+  "requestResponseRecord" : {}
+}

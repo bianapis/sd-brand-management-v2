@@ -1,0 +1,12 @@
+{
+  "brandAdviceInitiateActionReference" : "BAIAR745260",
+  "brandManagementPlanInstanceRecord" : {
+    "brandValueAssessment" : "brandValueAssessment",
+    "brandUsage" : "brandUsage",
+    "brandDefinition" : "brandDefinition",
+    "brandDevelopmentSchedule" : "brandDevelopmentSchedule"
+  },
+  "brandAdviceInstanceReference" : "BAIR701342",
+  "brandAdviceInstanceStatus" : "brandAdviceInstanceStatus",
+  "brandAdviceInitiateActionRecord" : {}
+}

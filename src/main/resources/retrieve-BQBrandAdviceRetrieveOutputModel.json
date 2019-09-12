@@ -1,0 +1,17 @@
+{
+  "brandAdviceInstanceReport" : {
+    "brandAdviceInstanceReport" : {},
+    "brandAdviceInstanceReportType" : "brandAdviceInstanceReportType",
+    "brandAdviceInstanceReportRecord" : {},
+    "brandAdviceInstanceReportParameters" : "brandAdviceInstanceReportParameters"
+  },
+  "brandAdviceRetrieveActionResponse" : "brandAdviceRetrieveActionResponse",
+  "brandAdviceRetrieveActionTaskReference" : "BARATR783287",
+  "brandAdviceInstanceAnalysis" : {
+    "brandAdviceInstanceAnalysisReportType" : "brandAdviceInstanceAnalysisReportType",
+    "brandAdviceInstanceAnalysisRecord" : {},
+    "brandAdviceInstanceAnalysisParameters" : "brandAdviceInstanceAnalysisParameters",
+    "brandAdviceInstanceAnalysisReport" : {}
+  },
+  "brandAdviceRetrieveActionTaskRecord" : {}
+}
